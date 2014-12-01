@@ -8,4 +8,4 @@ Golang protocol buffer examples
 * https://code.google.com/p/protobuf/
 * https://github.com/golang/protobuf
 * https://code.google.com/p/gogoprotobuf/
-* 
+
